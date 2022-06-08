@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": 8,
+      "name": "Weeeedope",
+      "image": "https://static01.nyt.com/images/2021/06/12/multimedia/31sp-smallbiz-cannabis2-print/merlin_188310441_768cbe0b-f00f-41e9-9e9a-c809a7dbeb72-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "price": "1"
+    },
+    {
+      "name": "test",
+      "image": "test",
+      "price": "1",
+      "id": 9
+    },
+    {
+      "name": "test3",
+      "image": "test3",
+      "price": "13",
+      "id": 10
     }
   ]
 }
